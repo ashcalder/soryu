@@ -1,2 +1,2 @@
 # soryu
-[WIP] Tenstorrent Compute Library
+\[WIP\] Tenstorrent Compute Library
